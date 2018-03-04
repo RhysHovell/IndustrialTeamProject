@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,800');
+
+.display-2
+{
+    font-family: 'Nunito', sans-serif;
+    color: #DE118F;
+    font-weight:200;
+}
+
+.bold
+{
+    font-weight: 800;
+}
+
+.header h2
+{
+    font-weight: 600;
+}
+
+#myChart
+{
+    width: 20rem!important;
+    height: 20rem!important;
+    font-size: 20rem;
+    margin-left: 20%;
+    margin-top: 2rem;
+}
+
+
